@@ -1,0 +1,4 @@
+from tkinter import *
+from ttk import *
+
+n = Notebook(parent)
